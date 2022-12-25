@@ -1,5 +1,4 @@
-
-
+Data Source: https://www.kaggle.com/datasets/lava18/google-play-store-apps?datasetId=49864&searchQuery=sql&select=googleplaystore_user_reviews.csv 
 
 What we used:
 - Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Converting Data Types
