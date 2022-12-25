@@ -18,4 +18,5 @@ Interesting findings:
  - 
       
 What we can still do:
- - Run a regression to predict the values of ratings. We can also measure our accuracy by taking the ratings we already know and splitting that into a training and test set
+ - Run a regression to predict the missing values of ratings. 
+   We can also measure our model accuracy by taking the ratings we already know and splitting that into a training and test set
