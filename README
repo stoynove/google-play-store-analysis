@@ -1,10 +1,10 @@
 Data Source: https://www.kaggle.com/datasets/lava18/google-play-store-apps?datasetId=49864&searchQuery=sql&select=googleplaystore_user_reviews.csv 
 
-What we used:
+We cleaned a scraped dataset of apps from the Google Play store by converting data types, removing duplicates entries, joining tables together in SQL Server and more. 
+
+SQL Skills used:
 - Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Converting Data Types
 
-
-What we did:
 
 
 
@@ -14,7 +14,7 @@ Interesting findings:
    Nick, Bleacher Report: sports news, scores, & highlights, Bowmasters.
       Most of these apps are game-related so it's possible the web scraper picked them up the most because they are from other sections of the play store like the game section.
       
- - 
+ -  
       
 What we can still do:
  - Run a regression to predict the missing values of ratings. 
