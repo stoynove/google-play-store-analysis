@@ -14,7 +14,7 @@ Interesting findings:
    Nick, Bleacher Report: sports news, scores, & highlights, Bowmasters.
       Most of these apps are game-related so it's possible the web scraper picked them up the most because they are from other sections of the play store like the game section.
       
- -  
+ - It is not always correct to remove duplicate entries for bot reviews for example as you might end up removing human reviews in the process. 
       
 What we can still do:
  - Run a regression to predict the missing values of ratings. 
