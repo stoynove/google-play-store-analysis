@@ -14,6 +14,6 @@ Interesting findings:
       
  - It is not always correct to remove duplicate entries for bot reviews for example as you might end up removing human reviews in the process. 
       
-What we can still do:
+Further work that can be done:
  - Run a regression to predict the missing values of ratings. 
    We can also measure our model accuracy by taking the ratings we already know and splitting that into a training and test set
