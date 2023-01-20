@@ -1,11 +1,9 @@
 Data Source: https://www.kaggle.com/datasets/lava18/google-play-store-apps?datasetId=49864&searchQuery=sql&select=googleplaystore_user_reviews.csv 
 
-We cleaned a scraped dataset of apps from the Google Play store by converting data types, removing duplicates entries, joining tables together in SQL Server and more. 
+I cleaned a scraped dataset of apps from the Google Play store by converting data types, removing duplicates entries, creating, and joining tables together in SQL Server and more. 
 
 SQL Skills used:
 - Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Converting Data Types
-
-
 
 
 Interesting findings:
